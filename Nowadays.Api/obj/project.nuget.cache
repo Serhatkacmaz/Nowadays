@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "me7V7Ed89jhBShK0j0fofGJ2I5pEi14LaAbnZfrT+DNQBxyKd4PW6X+LEAsFL+xe3eugnrx2GmOwMDwsSoKfEg==",
+  "dgSpecHash": "aC9B+hTKNISWVO67BKZVjYcrOQfbewampvNzx14WqOcsJUju8GqBVEnLPGzS79xx0DJ482Uyhk3kTh3atXNEMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\serha\\source\\repos\\Nowadays\\Nowadays.Api\\Nowadays.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\serha\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\serha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\serha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\serha\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

@@ -80,3 +80,10 @@ C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\Nowadays.Serv
 C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\Nowadays.Service.pdb
 C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\Nowadays.Core.pdb
 C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\Nowadays.Repository.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\Autofac.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
