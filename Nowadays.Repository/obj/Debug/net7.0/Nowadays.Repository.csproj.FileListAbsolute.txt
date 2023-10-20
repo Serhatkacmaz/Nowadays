@@ -1,0 +1,17 @@
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\bin\Debug\net7.0\Nowadays.Repository.deps.json
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\bin\Debug\net7.0\Nowadays.Repository.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\bin\Debug\net7.0\Nowadays.Repository.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.AssemblyInfoInputs.cache
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.AssemblyInfo.cs
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\refint\Nowadays.Repository.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\ref\Nowadays.Repository.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\bin\Debug\net7.0\Nowadays.Repository.runtimeconfig.json
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\bin\Debug\net7.0\Nowadays.Core.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\bin\Debug\net7.0\Nowadays.Core.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.csproj.CopyComplete
+C:\Users\serha\source\repos\Nowadays\Nowadays.Repository\obj\Debug\net7.0\Nowadays.Repository.genruntimeconfig.cache

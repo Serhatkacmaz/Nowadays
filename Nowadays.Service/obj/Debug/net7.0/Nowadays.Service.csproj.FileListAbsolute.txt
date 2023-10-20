@@ -1,0 +1,17 @@
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Service.deps.json
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Service.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Service.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.AssemblyInfoInputs.cache
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.AssemblyInfo.cs
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\refint\Nowadays.Service.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\ref\Nowadays.Service.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Core.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Repository.dll
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Repository.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\bin\Debug\net7.0\Nowadays.Core.pdb
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\Nowadays\Nowadays.Service\obj\Debug\net7.0\Nowadays.Service.csproj.CopyComplete
